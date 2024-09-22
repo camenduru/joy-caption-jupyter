@@ -7,6 +7,7 @@
 | Notebook | Info
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/joy-caption-jupyter/blob/main/joy_caption_jupyter.ipynb) | joy_caption_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/joy-caption-jupyter/blob/main/joy_caption_alpha_one_jupyter.ipynb) | joy_caption_alpha_one_jupyter (8bit)
 
 ### 🧬 Code
 https://github.com/google-research/big_vision <br />
